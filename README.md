@@ -24,3 +24,5 @@ Check these in Postman
 2. [ GET ]  at http://localhost:8080/api/user/fetch
 3. [ GET ] fetch using userID http://localhost:8080/api/user/fetch/{userID}
 4. [ GET ] fetch using username http://localhost:8080/api/user/fetchByUsername?username={name}
+
+Changes are reflected in connected MySQL database.
