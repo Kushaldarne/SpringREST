@@ -1,4 +1,4 @@
-# Spring Boot REST API Projec
+# Spring Boot REST API Project
 
 
 ### Installing
